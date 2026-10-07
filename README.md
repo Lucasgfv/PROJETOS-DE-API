@@ -7,6 +7,17 @@ As atividades presentes foram desenvolvidas para demonstração de conceitos de 
 
 ---
 
+## 📑 Sumário
+- [Base de Conceitos](#-base-de-conceitos)
+  - [1. LocalStorage](#1-localstorage)
+  - [2. Métodos de Array](#2-métodos-de-array)
+  - [3. POO (Programação Orientada a Objetos)](#3-poo-programação-orientada-a-objetos)
+- [Projetos com Aplicações Reais](#-projetos-com-aplicações-reais)
+  - [Projeto API-LocalStorage](#projeto-api-localstorage)
+  - [Projeto API-FASTIFY](#projeto-api-fastify)
+
+
+
 ## 📚 Base de Conceitos
 
 ### 1. LocalStorage
